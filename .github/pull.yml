@@ -1,0 +1,5 @@
+version: "1"
+rules:
+  - base: q10.0
+    upstream: AICP:q10.0
+    mergeMethod: hardreset
